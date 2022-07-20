@@ -1,3 +1,8 @@
+# added by ruairi
+.idea/
+venv/
+my_optimizers/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
